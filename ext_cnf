@@ -1,0 +1,2 @@
+exten => s,1,Noop()
+same  =>   n,Hangup()
